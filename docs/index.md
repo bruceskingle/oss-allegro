@@ -3,6 +3,7 @@ nav_order: 1
 title: Home
 ---
 # Allegro Api
+HELLO THIS IS A TEST
 Allegro is a client side Java native binding for Symphony. By native binding we mean that it is implemented in Java and has encryption and decryption capabilities built in, so that an API Agent is not needed for its use.
 
 Allegro can talk to a Symphony Pod and its associated Key Manager, and also the Symphony 2.0 Object Store, which
